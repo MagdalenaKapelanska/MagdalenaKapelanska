@@ -21,7 +21,7 @@ The following function allows you to add patient data to the database. The get_t
 
 --
 The following functions enable the opening of the text file baza.txt:
-The splitString function returns words separated by a space, it was used when reading a text file. The push_back () method adds the character specified as the argument to the end of the string: 
+The splitString function returns words separated by a space, it allows read a text file. The push_back () method adds the character specified as the argument to the end of the string: 
 
 ![pobierz_pesel()](./function3.jpg)
 ![pobierz_pesel()](./function4.jpg)
