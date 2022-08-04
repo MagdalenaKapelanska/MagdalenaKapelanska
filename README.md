@@ -9,3 +9,6 @@ After selecting the option "Change the total cost of treatment" from the main me
 
 
 ![Main menu](./file.jpg)
+
+![Main menu](./file2.jpg)
+
