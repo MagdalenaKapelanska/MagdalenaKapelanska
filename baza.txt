@@ -1,0 +1,16 @@
+Kinga Andrzejewska 52093051735 + 01.01.2022 wizyta_kontrolna 406
+Amelia Bak 1903082878 - 27.01.2020 wizyta_kontrolna 890
+Helena Kolodziej 62123171603 + 07.02.2020 ekstrakcja_zeba 100
+Weronika Czarnecka 3103160303 - 31.12.2021 skaling_zebow 90
+Eleonora Sadowska 94862816705 - 08.02.2021 leczenie_kanalowe 890
+Roman Urbanski 63883083346 - 19.02.2021 piaskowanie_zębów 560
+Gniewomir Sokolowski 49083140966 + 17.03.2021 leczenie_kanalowe 780
+Marian Sikora 28833047588 + 08.04.2021 fluoryzacja 120
+Anatol Kazmierczak 75113053953 + 09.01.2022 skaling_zebow 1900
+Alojzy Wasilewska 13073169282 - 13.07.2021 piaskowanie_zebow 340
+Edward Pietrzak 99053150725 - 02.08.2021 fluoryzacja 230
+Boleslaw Kowalski 39043047819 - 04.08.2021 wizyta_kontrolna 560
+Jozef Czerwinski 77113053953 - 26.08.2021 wybielanie_zebow 1020
+Jacek Krupa 46063018460 - 16.11.2021 polerowanie_zebow 2500
+Maurycy Kozlowski 23923192544 + 25.11.2021 ekstrakcja_zeba 120
+Alicja Banach 09081010190 + 09.01.2021 bol_zeba 460
